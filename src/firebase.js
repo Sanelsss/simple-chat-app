@@ -7,8 +7,7 @@ const firebaseApp = firebase.initializeApp({
     storageBucket: "firechat-5fa8c.appspot.com",
     messagingSenderId: "718769456429",
     appId: "1:718769456429:web:81cfd623406dc9b122bfa4",
-    measurementId: "G-SSE99VCDYR"
-})
+    measurementId: "G-SSE99VCDYR"})
 
 const db = firebaseApp.firestore()
 
